@@ -6,7 +6,7 @@ public class Lab1_12
 	{
 		int d = 2;
 		double pi = 3.14;
-		System.out.println("值竟是"+d+"公分的圓");
+		System.out.println("直徑是"+d+"公分的圓");
 		System.out.println("其圓周為"+(d*pi)+"公分");
 		int num1 = 5;
 		int num2 = 4;
